@@ -9,7 +9,7 @@ Automatiser la génération de SBOMs (Software Bill of Materials) pour plusieurs
 1. \*\*Étape 1 : \*\***`multi-repo-sbom-individual.py`** → analyse indépendante de chaque projet.
 2. \*\*Étape 2 : \*\***`multi-repo-sbom-global.py`** → analyse consolidée de tous les projets dans un seul répertoire.
 
-Cela permet d’avoir à la fois une vue fine par composant, et une vue d’ensemble du design system ou de l’application globale.
+Cela permet d’avoir à la fois une vue fine par composant, et une vue d’ensemble du projet globale.
 
 ---
 
